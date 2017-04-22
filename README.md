@@ -1,6 +1,8 @@
 
 # React Gun Examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brysgo/todo-graphql-gun.svg)](https://greenkeeper.io/)
+
 These are the react examples for gun. They are separate from the other examples, because they require a lot of additional npm modules.
 
 To start the server (sync between clients), use `npm run server`, then go to localhost:8081.
