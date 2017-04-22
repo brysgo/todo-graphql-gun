@@ -3,9 +3,14 @@
   "version": "1.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.5",
+    "graphql": "^0.9.3",
+    "graphql-gun": "^0.1.0",
+    "graphql-tag": "^2.0.0",
     "gun": "file:../..",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "todomvc-common": "^1.0.3"
   },
   "devDependencies": {
     "express": "^4.15.2",

@@ -1,9 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import "todomvc-common";
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+import React from "react";
+import ReactDOM from "react-dom";
+import TodoApp from "./TodoApp";
+
+const mountNode = document.getElementById("root");
+
+ReactDOM.render(<TodoApp />, mountNode);
