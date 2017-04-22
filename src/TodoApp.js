@@ -24,14 +24,10 @@ class TodoApp extends React.Component {
         }
       }
     });
-    gun
-      .get("todo_app")
-      .get("todo_0")
-      .get("node")
-      .get("text")
-      .on((...args) => console.log({ args }));
-    const todos = gun.get("todo_app").put({ todos: { edges: {} } });
-    todos.get("todos").get("edges").set(todo);
+    gun.get("todo_app").put({
+      totalCount: 1,
+      todos: { edges: { 0: {node: {text}}} } });
+    todos.get("todo_app").get("todos").get("edges").set(todo)
     // AddTodoMutation.commit(this.props.relay.environment, text, this.props.data);
   };
   render() {

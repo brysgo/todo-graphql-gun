@@ -26,7 +26,7 @@ export default class TodoList extends React.Component {
     `
   };
   _handleMarkAllChange = e => {
-    const complete = e.target.checked;
+    // const complete = e.target.checked;
     console.log("TODO: mark all todos mutation");
     // MarkAllTodosMutation.commit(
     //   this.props.relay.environment,

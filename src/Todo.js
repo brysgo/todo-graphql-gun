@@ -21,7 +21,7 @@ export default class Todo extends React.Component {
       }`
   };
   _handleCompleteChange = e => {
-    const complete = e.target.checked;
+    // const complete = e.target.checked;
     console.log("TODO: change todo status");
     // ChangeTodoStatusMutation.commit(
     //   this.props.relay.environment,
