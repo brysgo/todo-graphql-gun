@@ -9,7 +9,7 @@
     "graphql-tag": "^2.0.0",
     "gun": "^0.7.3",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react-dom": "^16.0.1",
     "todomvc-common": "^1.0.3"
   },
   "devDependencies": {
