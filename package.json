@@ -5,7 +5,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "graphql": "^0.9.3",
-    "graphql-gun": "^0.1.0",
+    "graphql-gun": "^0.2.0",
     "graphql-tag": "^2.0.0",
     "gun": "^0.7.3",
     "react": "^15.5.4",
