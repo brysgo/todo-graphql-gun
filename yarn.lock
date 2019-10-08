@@ -4948,9 +4948,9 @@ to-fast-properties@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.2.tgz#f3f5c0c3ba7299a7ef99427e44633257ade43320"
 
-todomvc-common@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/todomvc-common/-/todomvc-common-1.0.3.tgz#cba1868109caa401b908ebf77794cc1014b74873"
+todomvc-common@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/todomvc-common/-/todomvc-common-1.0.5.tgz#8c3e799ac9f1fc1573e0c204f984510826914730"
 
 toposort@^1.0.0:
   version "1.0.3"

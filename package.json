@@ -10,7 +10,7 @@
     "gun": "^0.7.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "todomvc-common": "^1.0.3"
+    "todomvc-common": "^1.0.5"
   },
   "devDependencies": {
     "express": "^4.15.2",
