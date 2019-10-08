@@ -8,7 +8,7 @@
     "graphql-gun": "^0.1.0",
     "graphql-tag": "^2.0.0",
     "gun": "^0.7.3",
-    "react": "^15.5.4",
+    "react": "^15.6.2",
     "react-dom": "^15.5.4",
     "todomvc-common": "^1.0.3"
   },
