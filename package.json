@@ -13,7 +13,7 @@
     "todomvc-common": "^1.0.3"
   },
   "devDependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-http-proxy": "^0.11.0",
     "react-scripts": "0.9.5"
   },
